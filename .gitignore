@@ -1,0 +1,5 @@
+# Ignore virtual environment
+nlp_venv/
+
+# Ignore datasets
+datasets/
