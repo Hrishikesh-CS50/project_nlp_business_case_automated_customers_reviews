@@ -3,3 +3,6 @@ nlp_venv/
 
 # Ignore datasets
 datasets/
+
+# Ignore models
+models/
